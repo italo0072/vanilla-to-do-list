@@ -98,6 +98,12 @@ button:hover {
     background-color: #4CAF50;
 }
 
+.empty-state {
+    text-align: center;
+    color: #999;
+    padding: 20px;
+}
+
 .stats {
     text-align: center;
     margin-top: 20px;
